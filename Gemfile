@@ -31,7 +31,7 @@ gem 'better_errors'
 gem 'binding_of_caller'
 gem 'pry-rails'
 gem 'annotate'
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 4.3.4'
 gem 'rails_12factor'
 gem "paperclip"
 gem 'figaro'
